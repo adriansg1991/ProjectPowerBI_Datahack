@@ -4,7 +4,7 @@
 Bienvenido a mi repositorio de GitHub donde comparto los diferentes dashboards que he realizado en Power BI durante el curso impartido por Datahack e IBM. Este curso me permitió explorar y utilizar todas las funciones de Power BI, incluyendo el uso de DAX (Data Analysis Expressions) para crear informes dinámicos y altamente interactivos.
 
 
-### 3. Proyecto Final: Proceso ETL Completo y Dashboard Final
+### Proyecto Final: Proceso ETL Completo y Dashboard Final
 Además incluyo el proyecto final, donde analizo diferentes campañas de marketing de una empresa con el objetivo de crear dashboards que puedan servir para la toma de decisiones para posteriores campañas.
 El proyecto final fue una oportunidad para aplicar todo lo aprendido durante el curso. Este proyecto incluye:
 - **Carga de Datos:** Importación de un archivo CSV.
