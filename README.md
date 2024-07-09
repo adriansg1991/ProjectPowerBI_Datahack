@@ -1,4 +1,4 @@
-# Dashboards en Power BI - Curso de Datahack e IBM
+# Curso de Datahack & IBM - Power BI
 
 Bienvenido a mi repositorio de GitHub donde comparto los diferentes dashboards que he realizado en Power BI durante el curso impartido por Datahack e IBM. Este curso me permitió explorar y utilizar todas las funciones de Power BI, incluyendo el uso de DAX (Data Analysis Expressions) para crear informes dinámicos y altamente interactivos.
 
