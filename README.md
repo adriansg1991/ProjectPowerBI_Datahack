@@ -1,4 +1,5 @@
-# Curso de Datahack & IBM - Power BI
+# ℹ️ Curso de Datahack & IBM - Power BI
+![Power BI](https://img.shields.io/badge/Power%20BI-Transforming%20Data%20into%20Insights-orange?style=flat&logo=power-bi)
 
 Bienvenido a mi repositorio de GitHub donde comparto los diferentes dashboards que he realizado en Power BI durante el curso impartido por Datahack e IBM. Este curso me permitió explorar y utilizar todas las funciones de Power BI, incluyendo el uso de DAX (Data Analysis Expressions) para crear informes dinámicos y altamente interactivos.
 
@@ -22,4 +23,10 @@ El proyecto final consistió en llevar a cabo todo el proceso ETL (Extract, Tran
 5. **Dashboard Final:** El resultado es un dashboard interactivo que permite a los usuarios explorar y analizar los datos de manera intuitiva y visual.
 
 
-¡Gracias por visitar mi repositorio!
+---
+
+## 📬 Contacto
+
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [mi correo electrónico](mailto:adriansg1991@gmail.com) o en [Linkedin](https://linkedin.com/in/adriansanchez-garcia/).
+
+¡Gracias por visitar el repositorio! 🚀
